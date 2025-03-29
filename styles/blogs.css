@@ -3,6 +3,10 @@ div{
     padding:10px;
     margin-bottom: 10px;
 }
-p,h3, li{
+p, li{
     color:lime;
+}
+h3{
+    color:lime;
+    
 }
