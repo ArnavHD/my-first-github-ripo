@@ -1,8 +1,8 @@
-div{
+.one{
     background-color: black;
     margin-bottom: 10px;
     text-align:justify;
-    padding-left: 10px;
+    padding: 10px;
     border-radius: 5px;
     
 }
