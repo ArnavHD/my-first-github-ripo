@@ -1,12 +1,11 @@
 div{
     background-color: black;
-    padding:10px;
     margin-bottom: 10px;
-}
-p, li{
-    color:lime;
-}
-h3{
-    color:lime;
+    text-align:justify;
+    padding-left: 10px;
+    border-radius: 5px;
     
+}
+p,li,h3{
+    color:lime;
 }
